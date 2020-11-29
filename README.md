@@ -1,4 +1,4 @@
-### About me. Welcome
+## About me. Welcome
 
 My name is Hanna Lubneuskaya. I am studying Data Science Profession course at SkillFactory.
 For the last 9 years, I have been working as a web designer and UX | UI designer, participated in project launches, as well as worked as a Head of the Multimedia Resources Sector and led a team of developers working on commercial and ambassadorial product .
@@ -16,7 +16,9 @@ You can contact me via Telegram:[@luhakv](https://t.me/luhakv), - don't hesitate
 My e-mail: h.lubneuskaya@gmail.com  
 And yes, if you liked any of my repositories, I'd be grateful if you starred them :)  
 
-### Обо мне. Добро пожаловать! 
+---
+
+## Обо мне. Добро пожаловать! 
 
 Меня зовут Анна Лубневская. Я - слушатель курса Профессия Data Science в SkillFactory.  
 Последние 9 лет я занималась сперва веб-дизайном и позже UX|UI дизайном, участвовала в пертнерских и собственных запусках проектов, а также работала Завсектором создания мультимедийных ресурсов и вела команду разработчиков коммерческих и посольских продуктов.   
