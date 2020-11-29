@@ -4,12 +4,12 @@ My name is Hanna Lubneuskaya. I am studying Data Science Profession course at Sk
 
 For the last 9 years, I have been working as a web designer and UX | UI designer, participated in project launches, as well as worked as a Head of the Multimedia Resources Sector and led a team of developers working on commercial and ambassadorial products.    
 
-INTERNSHIPS:  
+***INTERNSHIPS:***  
 - Creating value from new ideas and technologies. October 22-24, 2012. Hi-Tech Park (HTP); Minsk, Belarus
 - Sustainable development; Heinrich Böll Foundation. August 2009. Berlin, Germany
 - Management. International Foundation "EIDOS". October - November 2008. Kiev, Ukraine  
 
-CONFERENCES:
+***CONFERENCES:***
 - Conference Data Science. October 20, 2020
 - International conference AI-MEN - Artificial Intelligence, Data Science and Machine Learning. September 26, 2020  
 
@@ -36,12 +36,12 @@ And yes, if you liked any of my repositories, I'd be grateful if you starred the
 
 Последние 9 лет я занималась сперва веб-дизайном и позже UX|UI дизайном, участвовала в пертнерских и собственных запусках проектов, а также работала Завсектором создания мультимедийных ресурсов и вела команду разработчиков коммерческих и посольских продуктов.  
 
-СТАЖИРОВКИ:  
+***СТАЖИРОВКИ:***  
 - Creating value from new ideas and technologies. Ментор: Кент Миллингтон. Октябрь 22-24, 2012. Парк высоких технологий (HTP); Минск, Беларусь
 - Sustainable development; фонд Heinrich Böll. Август 2009. Бердин, Германия
 - Менеджмент. Международный фонд "EIDOS". Октябрь - Ноябрь 2008. Киев, Украина  
 
-КОНФЕРЕНЦИИ:
+***КОНФЕРЕНЦИИ:***  
 - Data Science. 20 октября 2020
 - Международная конференция AI-MEN - Artificial Intelligence, Data Science and Machine Learning. 26 сентября 2020  
 
