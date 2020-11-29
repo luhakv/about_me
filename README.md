@@ -10,8 +10,9 @@
 **IDE:** Jupyter Notebook, kaggle notebooks  
 
 **Kaggle:** https://www.kaggle.com/luhakv  
+**LinkedIn:** https://www.linkedin.com/in/luhakv  
 
- Мое резюме можно найти тут и профиль на LinkedIn
+ Мое резюме можно найти тут  
  Проще всего связаться со мной через Telegram - звоните, пишите, не стесняйтесь.
  А тем кому привычнее хардкор, пишите на e-mail:sokaa2011@gmail.com
 Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их -дами
