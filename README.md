@@ -5,8 +5,8 @@ For the last 9 years, I have been working as a web designer and UX | UI designer
 This background helps me to adapt in a large flow of information much easier, to be able to organize schedule, distribute questions, develop a work flow, and also complete its technical part in time.  
 I speak Russian, English, a bit German and Spanish, also passed International Exam HSK3 Chinese Language. These knowlages help me to find and analize information professionally and quick.  
 
-Stack: Python (Pandas, Numpy, Matplotlib, SciKit-Learn), SQL, Linux, Git  
-IDE: Jupyter Notebook, kaggle notebooks  
+**Stack:** Python (Pandas, Numpy, Matplotlib, SciKit-Learn), SQL, Linux, Git  
+**IDE:** Jupyter Notebook, kaggle notebooks  
 
 Kaggle: https://www.kaggle.com/luhakv  
 LinkedIn: https://www.linkedin.com/in/luhakv  
