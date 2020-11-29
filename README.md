@@ -12,7 +12,7 @@
 **Kaggle:** https://www.kaggle.com/luhakv  
 **LinkedIn:** https://www.linkedin.com/in/luhakv  
 
-Мое резюме можно найти тут    
+Мое резюме можно найти на [rabota.by](https://rabota.by/resume/321cb1c4ff0788704e0039ed1f765846435536) и hh.ru    
 Связаться со мной можно через Telegram: [@luhakv](https://t.me/luhakv), - пишите, не стесняйтесь  
 Кому привычнее хардкор, мой e-mail: h.lubneuskaya@gmail.com  
 И да, если вам понравились какие-нибудь мои репозитории, буду благодарна, если отметите их звездами :)
