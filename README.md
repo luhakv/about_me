@@ -10,6 +10,7 @@ For the last 9 years, I have been working as a web designer and UX | UI designer
 - Management. International Foundation "EIDOS". October - November 2008. Kiev, Ukraine  
 
 ***CONFERENCES:***
+- Cyber Security Day Conference. March 4, 2021
 - Conference Data Science. October 20, 2020
 - International conference AI-MEN - Artificial Intelligence, Data Science and Machine Learning. September 26, 2020  
 
@@ -41,7 +42,8 @@ And yes, if you liked any of my repositories, I'd be grateful if you starred the
 - Sustainable development; фонд Heinrich Böll. Август 2009. Бердин, Германия
 - Менеджмент. Международный фонд "EIDOS". Октябрь - Ноябрь 2008. Киев, Украина  
 
-***КОНФЕРЕНЦИИ:***  
+***КОНФЕРЕНЦИИ:***
+- Cyber Security Day Conference. 4 марта 2021
 - Data Science. 20 октября 2020
 - Международная конференция AI-MEN - Artificial Intelligence, Data Science and Machine Learning. 26 сентября 2020  
 
