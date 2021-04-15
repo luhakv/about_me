@@ -1,8 +1,8 @@
 ## About me. Welcome
 
-My name is Hanna Lubneuskaya. I am studying Data Science Profession course at SkillFactory.  
+My name is Hanna Lubneuskaya. 
 
-For the last 9 years, I have been working as a web designer and UX | UI designer, participated in project launches, as well as worked as a Head of the Multimedia Resources Sector and led a team of developers working on commercial and ambassadorial products.    
+For the last 9 years, I have been working as a web designer and UX | UI designer, member of Belarusian Uniion of designers, participated in project launches, as well as worked as a Head of the Multimedia Resources Sector and led a team of developers working on commercial and ambassadorial products.    
 
 ***INTERNSHIPS:***  
 - Creating value from new ideas and technologies. October 22-24, 2012. Hi-Tech Park (HTP); Minsk, Belarus
@@ -33,9 +33,9 @@ And yes, if you liked any of my repositories, I'd be grateful if you starred the
 
 ## Обо мне. Добро пожаловать! 
 
-Меня зовут Анна Лубневская. Я - слушатель курса Профессия Data Science в SkillFactory.  
+Меня зовут Анна Лубневская. 
 
-Последние 9 лет я занималась сперва веб-дизайном и позже UX|UI дизайном, участвовала в партнерских и собственных запусках проектов, а также работала Завсектором создания мультимедийных ресурсов и вела команду разработчиков коммерческих и посольских продуктов.  
+Последние 9 лет я занималась сперва веб-дизайном и позже UX|UI дизайном, являюсь членом Белорусского союза дизайнеров, участвовала в партнерских и собственных запусках проектов, а также работала Завсектором создания мультимедийных ресурсов и вела команду разработчиков коммерческих и посольских продуктов.  
 
 ***СТАЖИРОВКИ:***  
 - Creating value from new ideas and technologies. Ментор: Кент Миллингтон. Октябрь 22-24, 2012. Парк высоких технологий (HTP); Минск, Беларусь
