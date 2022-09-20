@@ -23,8 +23,7 @@ I speak Russian (native), English (Proficiancy), a bit German (Mittelstuffe II) 
 
 Kaggle: https://www.kaggle.com/luhakv  
 LinkedIn: https://www.linkedin.com/in/luhakv  
- 
-My resume can be found at [rabota.by](https://rabota.by/resume/321cb1c4ff0788704e0039ed1f765846435536) and hh.ru  
+  
 You can contact me via Telegram:[@luhakv](https://t.me/luhakv), - don't hesitate to contact me  
 My e-mail: h.lubneuskaya@gmail.com  
 And yes, if you liked any of my repositories, I'd be grateful if you starred them :)  
