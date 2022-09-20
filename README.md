@@ -56,7 +56,6 @@ And yes, if you liked any of my repositories, I'd be grateful if you starred the
 **Kaggle:** https://www.kaggle.com/luhakv  
 **LinkedIn:** https://www.linkedin.com/in/luhakv  
 
-Мое резюме можно найти на [rabota.by](https://rabota.by/resume/321cb1c4ff0788704e0039ed1f765846435536) и hh.ru    
 Связаться со мной можно через Telegram: [@luhakv](https://t.me/luhakv), - пишите, не стесняйтесь  
 Если по старинке, мой e-mail: h.lubneuskaya@gmail.com  
 И да, если вам понравились какие-нибудь мои репозитории, буду благодарна, если отметите их звездами :)
